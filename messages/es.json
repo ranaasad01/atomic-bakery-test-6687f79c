@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "contact": "Contacto",
+    "cta": "Ordena Hoy"
+  },
+  "footer": {
+    "navigate": "Navegar",
+    "hours": "Horarios",
+    "weekdays": "Lun – Vie",
+    "saturday": "Sábado",
+    "sunday": "Domingo",
+    "rights": "Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "inNeighborhood": "en el barrio."
+  },
+  "hero": {
+    "eyebrow": "Panadería Artesanal",
+    "title": "Horneado Fresco, Cada Mañana",
+    "subtitle": "Panes, pasteles y tartas elaborados a mano con ingredientes de origen local y mucho amor.",
+    "cta": "Ver Nuestro Menú",
+    "secondary": "Encuéntranos",
+    "badge": "Amado localmente",
+    "badge_rating": "4.9",
+    "badge_reviews": "200+ reseñas",
+    "cta_primary": "Ordena ahora",
+    "cta_secondary": "Ver menú",
+    "stat_award": "Galardonado",
+    "stat_bake": "Fresco diariamente",
+    "stat_items": "20+ variedades"
+  },
+  "menu": {
+    "label": "Nuestro Menú",
+    "title": "Hecho desde Cero, Diariamente",
+    "subtitle": "Cada artículo se prepara fresco cada mañana utilizando técnicas tradicionales e ingredientes locales de la mejor calidad.",
+    "breads": "Panes",
+    "pastries": "Pasteles",
+    "cakes": "Tartas"
+  },
+  "contact": {
+    "label": "Visítanos",
+    "title": "Ven a Saludarnos",
+    "subtitle": "Nos encantaría verte. Pasa por la panadería o envíanos un mensaje.",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "hours": "Horarios",
+    "formName": "Tu nombre",
+    "formEmail": "Tu correo electrónico",
+    "formMessage": "Tu mensaje",
+    "formSubmit": "Enviar mensaje",
+    "formSuccess": "¡Gracias! Nos pondremos en contacto pronto.",
+    "weekdays": "Lun – Vie: 7am – 6pm",
+    "saturday": "Sábado: 7am – 4pm",
+    "sunday": "Domingo: 8am – 2pm",
+    "address_label": "Visítanos",
+    "email_label": "Correo electrónico",
+    "field_email": "tu@email.com",
+    "field_message": "Cuéntanos qué te trae por aquí",
+    "field_name": "Tu nombre",
+    "form_subtitle": "Nos encantaría saber de ti. Escríbenos en cualquier momento.",
+    "form_title": "Ponte en contacto",
+    "hours_label": "Horario",
+    "phone_label": "Llámanos",
+    "submit": "Enviar",
+    "success_body": "Gracias por contactarnos. Te responderemos pronto.",
+    "success_title": "Mensaje recibido"
+  },
+  "testimonials": {
+    "label": "Lo que dicen nuestros clientes",
+    "title": "Amado por la comunidad"
+  }
+}

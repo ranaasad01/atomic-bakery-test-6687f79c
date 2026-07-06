@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "contact": "Contact",
+    "cta": "Order Today"
+  },
+  "footer": {
+    "navigate": "Navigate",
+    "hours": "Hours",
+    "weekdays": "Mon – Fri",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with",
+    "inNeighborhood": "in the neighborhood."
+  },
+  "hero": {
+    "eyebrow": "Artisan Bakery",
+    "title": "Baked Fresh, Every Morning",
+    "subtitle": "Handcrafted breads, pastries, and cakes made with locally sourced ingredients and a whole lot of love.",
+    "cta": "See Our Menu",
+    "secondary": "Find Us",
+    "badge": "Locally loved",
+    "badge_rating": "4.9",
+    "badge_reviews": "200+ reviews",
+    "cta_primary": "Order now",
+    "cta_secondary": "See menu",
+    "stat_award": "Award-winning",
+    "stat_bake": "Fresh daily",
+    "stat_items": "20+ varieties"
+  },
+  "menu": {
+    "label": "Our Menu",
+    "title": "Made from Scratch, Daily",
+    "subtitle": "Every item is prepared fresh each morning using traditional techniques and the finest local ingredients.",
+    "breads": "Breads",
+    "pastries": "Pastries",
+    "cakes": "Cakes"
+  },
+  "contact": {
+    "label": "Visit Us",
+    "title": "Come Say Hello",
+    "subtitle": "We would love to see you. Stop by the bakery or send us a message.",
+    "address": "Address",
+    "phone": "Phone",
+    "hours": "Hours",
+    "formName": "Your name",
+    "formEmail": "Your email",
+    "formMessage": "Your message",
+    "formSubmit": "Send Message",
+    "formSuccess": "Thank you! We will be in touch soon.",
+    "weekdays": "Mon – Fri: 7am – 6pm",
+    "saturday": "Saturday: 7am – 4pm",
+    "sunday": "Sunday: 8am – 2pm",
+    "address_label": "Visit us",
+    "email_label": "Email",
+    "field_email": "your@email.com",
+    "field_message": "Tell us what brings you in",
+    "field_name": "Your name",
+    "form_subtitle": "We'd love to hear from you. Drop us a line anytime.",
+    "form_title": "Get in touch",
+    "hours_label": "Hours",
+    "phone_label": "Call us",
+    "submit": "Send",
+    "success_body": "Thanks for reaching out. We'll get back to you soon.",
+    "success_title": "Message received"
+  },
+  "testimonials": {
+    "label": "What customers say",
+    "title": "Loved by the community"
+  }
+}
